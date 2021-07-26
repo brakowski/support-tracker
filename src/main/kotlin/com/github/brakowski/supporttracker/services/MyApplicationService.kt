@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.brakowski.supporttracker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.brakowski.supporttracker.MyBundle
 
 class MyApplicationService {
 
